@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak Modi
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently learning c++ and data structures
-- 💞️ I’m not looking to collaborate 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me - astutedeepak@gmail.com
 
 <!---
